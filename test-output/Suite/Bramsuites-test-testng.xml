@@ -1,0 +1,10 @@
+<suite name="Bramford Testing" parallel="tests" thread-count="2" >
+ <test name="Test">
+    
+    <classes>
+      <class name="lCCTesting.Bromford" />
+      <class name="lCCTesting.BramfordNews" />
+      <class name="lCCTesting.BramFordCustomerArea"/>
+    </classes>
+  </test>
+</suite>
